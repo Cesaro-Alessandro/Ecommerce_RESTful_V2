@@ -1,0 +1,4 @@
+Host:localhost
+User:User2
+Password:1234
+Database:ecommerce2

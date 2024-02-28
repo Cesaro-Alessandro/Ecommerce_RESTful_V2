@@ -1,0 +1,4 @@
+Host:192.168.2.200
+User:cesaro_alessandro
+Password:cesaro_alessandro
+Database:cesaro_alessandro_API
